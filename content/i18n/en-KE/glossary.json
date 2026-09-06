@@ -1,0 +1,2519 @@
+{
+  "account": {
+    "word": "account",
+    "definition": "a record that shows increases and decreases in one item, such as cash, sales, or wages.",
+    "variations": [
+      "account",
+      "accounts"
+    ],
+    "emoji": "📒✍️",
+    "id": "gl001"
+  },
+  "account holder": {
+    "word": "account holder",
+    "definition": "the person or business that owns a bank account.",
+    "variations": [
+      "account holder",
+      "account holders"
+    ],
+    "emoji": "👤🏦",
+    "id": "gl002"
+  },
+  "accountability": {
+    "word": "accountability",
+    "definition": "the duty to explain and take responsibility for actions",
+    "variations": [
+      "accountability"
+    ],
+    "emoji": "✅🤲",
+    "id": "gl003"
+  },
+  "accounting": {
+    "word": "accounting",
+    "definition": "the process of recording, organising, and reporting business money matters.",
+    "variations": [
+      "accounting"
+    ],
+    "emoji": "📊🧾",
+    "id": "gl004"
+  },
+  "accounting cycle": {
+    "word": "accounting cycle",
+    "definition": "the steps followed in recording and preparing business accounts",
+    "variations": [
+      "accounting cycle",
+      "accounting process"
+    ],
+    "emoji": "🔄📊",
+    "id": "gl005"
+  },
+  "accounting equation": {
+    "word": "accounting equation",
+    "definition": "the basic rule showing that assets are equal to capital plus liabilities",
+    "variations": [
+      "accounting equation",
+      "accounting equations"
+    ],
+    "emoji": "⚖️➕",
+    "id": "gl006"
+  },
+  "accounting period": {
+    "word": "accounting period",
+    "definition": "a fixed length of time used to measure and report a business’s performance",
+    "variations": [
+      "accounting period",
+      "accounting periods",
+      "accounting period concept"
+    ],
+    "emoji": "📅⏳",
+    "id": "gl007"
+  },
+  "accounts payable": {
+    "word": "accounts payable",
+    "definition": "money that the business owes to suppliers for goods or services received on credit",
+    "variations": [
+      "account payable",
+      "accounts payable"
+    ],
+    "emoji": "📄🏪",
+    "id": "gl008"
+  },
+  "accounts receivable": {
+    "word": "accounts receivable",
+    "definition": "money that customers owe to the business after getting goods or services on credit",
+    "variations": [
+      "account receivable",
+      "accounts receivable"
+    ],
+    "emoji": "🧾👥",
+    "id": "gl009"
+  },
+  "accrual basis accounting": {
+    "word": "accrual basis accounting",
+    "definition": "a method of accounting that records revenue when earned and expenses when incurred, even if cash has not yet moved",
+    "variations": [
+      "accrual basis accounting",
+      "accrual basis"
+    ],
+    "emoji": "🧾⏳",
+    "id": "gl010"
+  },
+  "accruals": {
+    "word": "accruals",
+    "definition": "expenses or income recorded before the money is actually paid or received",
+    "variations": [
+      "accrual",
+      "accruals"
+    ],
+    "emoji": "📘⏳",
+    "id": "gl011"
+  },
+  "analysis": {
+    "word": "analysis",
+    "definition": "careful study of something to understand it better",
+    "variations": [
+      "analysis",
+      "analyses"
+    ],
+    "emoji": "🔎📊",
+    "id": "gl012"
+  },
+  "arithmetical accuracy": {
+    "word": "arithmetical accuracy",
+    "definition": "correctness in numbers and calculations.",
+    "variations": [
+      "arithmetical accuracy",
+      "accuracy"
+    ],
+    "emoji": "➕✅",
+    "id": "gl013"
+  },
+  "asset": {
+    "word": "asset",
+    "definition": "something valuable owned by a business",
+    "variations": [
+      "asset",
+      "assets",
+      "non-current asset",
+      "non-current assets"
+    ],
+    "emoji": "🏢💰",
+    "id": "gl014"
+  },
+  "assets": {
+    "word": "assets",
+    "definition": "things a business owns that have value, such as cash, furniture, or buildings.",
+    "variations": [
+      "asset",
+      "assets"
+    ],
+    "emoji": "🏠💵📦",
+    "id": "gl015"
+  },
+  "audit": {
+    "word": "audit",
+    "definition": "an examination of financial records to check if they are correct and reliable.",
+    "variations": [
+      "audit",
+      "audits"
+    ],
+    "emoji": "🔍📂",
+    "id": "gl016"
+  },
+  "authorisation": {
+    "word": "authorisation",
+    "definition": "official permission or approval to do something",
+    "variations": [
+      "authorisation",
+      "authorisations",
+      "authorise",
+      "authorised"
+    ],
+    "emoji": "✅✍️",
+    "id": "gl017"
+  },
+  "automation": {
+    "word": "automation",
+    "definition": "the use of machines or software to do work automatically.",
+    "variations": [
+      "automation",
+      "automated"
+    ],
+    "emoji": "🤖⚙️",
+    "id": "gl018"
+  },
+  "balance": {
+    "word": "balance",
+    "definition": "the amount left in an account after comparing the debit side and the credit side.",
+    "variations": [
+      "balance",
+      "balances",
+      "balanced",
+      "balancing"
+    ],
+    "emoji": "⚖️📊",
+    "id": "gl019"
+  },
+  "balance brought forward": {
+    "word": "balance brought forward",
+    "definition": "the balance brought into a new period from the previous one.",
+    "variations": [
+      "balance brought forward",
+      "balance b/f"
+    ],
+    "emoji": "⬇️📅",
+    "id": "gl020"
+  },
+  "balance carried forward": {
+    "word": "balance carried forward",
+    "definition": "the closing balance of an account that is moved to the next period.",
+    "variations": [
+      "balance carried forward",
+      "balance c/f"
+    ],
+    "emoji": "➡️📅",
+    "id": "gl021"
+  },
+  "balance sheet": {
+    "word": "balance sheet",
+    "definition": "another name for the statement of financial position.",
+    "variations": [
+      "balance sheet",
+      "balance sheets"
+    ],
+    "emoji": "⚖️📄",
+    "id": "gl022"
+  },
+  "bank account": {
+    "word": "bank account",
+    "definition": "an account at a bank used to keep and manage money.",
+    "variations": [
+      "bank account",
+      "bank accounts"
+    ],
+    "emoji": "🏦💳",
+    "id": "gl023"
+  },
+  "bank deposit": {
+    "word": "bank deposit",
+    "definition": "money paid into a bank account.",
+    "variations": [
+      "bank deposit",
+      "bank deposits"
+    ],
+    "emoji": "🏦⬇️",
+    "id": "gl024"
+  },
+  "bank overdraft": {
+    "word": "bank overdraft",
+    "definition": "money a bank allows a business to withdraw even when there is not enough money in the account",
+    "variations": [
+      "bank overdraft",
+      "bank overdrafts",
+      "overdraft",
+      "overdrafts"
+    ],
+    "emoji": "🏦➖💳",
+    "id": "gl025"
+  },
+  "bank withdrawal": {
+    "word": "bank withdrawal",
+    "definition": "money taken out of a bank account.",
+    "variations": [
+      "bank withdrawal",
+      "bank withdrawals"
+    ],
+    "emoji": "🏦⬆️",
+    "id": "gl026"
+  },
+  "book of prime entry": {
+    "word": "book of prime entry",
+    "definition": "a book where a business records a transaction for the first time.",
+    "variations": [
+      "book of prime entry",
+      "books of prime entry"
+    ],
+    "emoji": "📖✍️",
+    "id": "gl027"
+  },
+  "book-keeping": {
+    "word": "book-keeping",
+    "definition": "the process of recording business financial transactions in an organised way",
+    "variations": [
+      "bookkeeping",
+      "book-keeper",
+      "bookkeeper"
+    ],
+    "emoji": "📒✍️",
+    "id": "gl028"
+  },
+  "books of accounts": {
+    "word": "books of accounts",
+    "definition": "the records a business keeps to show its financial transactions.",
+    "variations": [
+      "book of accounts",
+      "books of accounts"
+    ],
+    "emoji": "📚🧾",
+    "id": "gl029"
+  },
+  "books of prime entry": {
+    "word": "books of prime entry",
+    "definition": "the first books where business transactions are recorded before being posted to other accounts",
+    "variations": [
+      "book of prime entry",
+      "books of prime entry"
+    ],
+    "emoji": "📚✍️",
+    "id": "gl030"
+  },
+  "budgeting": {
+    "word": "budgeting",
+    "definition": "planning how money will be used or spent",
+    "variations": [
+      "budgeting",
+      "budget"
+    ],
+    "emoji": "📅💰",
+    "id": "gl031"
+  },
+  "building": {
+    "word": "building",
+    "definition": "a permanent structure owned or used by a business.",
+    "variations": [
+      "building",
+      "buildings"
+    ],
+    "emoji": "🏢🏗️",
+    "id": "gl032"
+  },
+  "business": {
+    "word": "business",
+    "definition": "an activity of buying and selling goods or services to earn money",
+    "variations": [
+      "business",
+      "businesses"
+    ],
+    "emoji": "🏪💼",
+    "id": "gl033"
+  },
+  "calculate": {
+    "word": "calculate",
+    "definition": "to find an amount or answer by using numbers",
+    "variations": [
+      "calculate",
+      "calculates",
+      "calculated",
+      "calculating",
+      "calculation",
+      "calculations"
+    ],
+    "emoji": "🧮➗",
+    "id": "gl034"
+  },
+  "capital": {
+    "word": "capital",
+    "definition": "the money or other resources put into a business by the owner to start or grow it",
+    "variations": [
+      "capital"
+    ],
+    "emoji": "💵📈",
+    "id": "gl035"
+  },
+  "carriage inwards": {
+    "word": "carriage inwards",
+    "definition": "the cost of transporting purchased goods to the business premises.",
+    "variations": [
+      "carriage inward",
+      "carriage inwards"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl036"
+  },
+  "cash": {
+    "word": "cash",
+    "definition": "money available for immediate use",
+    "variations": [
+      "cashes"
+    ],
+    "emoji": "💵💰",
+    "id": "gl037"
+  },
+  "cash book": {
+    "word": "cash book",
+    "definition": "a book used to record cash received and cash paid, including bank transactions.",
+    "variations": [
+      "cash book",
+      "cash books"
+    ],
+    "emoji": "💵📗",
+    "id": "gl038"
+  },
+  "cash flow": {
+    "word": "cash flow",
+    "definition": "the movement of cash into and out of a business.",
+    "variations": [
+      "cash flow",
+      "cash flows"
+    ],
+    "emoji": "💵↔️",
+    "id": "gl039"
+  },
+  "cash flow statement": {
+    "word": "cash flow statement",
+    "definition": "a financial statement that shows how cash comes into and goes out of a business",
+    "variations": [
+      "cash flow statement",
+      "cash flow statements"
+    ],
+    "emoji": "💵🔄",
+    "id": "gl040"
+  },
+  "cash inflows": {
+    "word": "cash inflows",
+    "definition": "cash coming into a business.",
+    "variations": [
+      "cash inflow",
+      "cash inflows"
+    ],
+    "emoji": "⬇️💰",
+    "id": "gl041"
+  },
+  "cash outflows": {
+    "word": "cash outflows",
+    "definition": "cash going out of a business.",
+    "variations": [
+      "cash outflow",
+      "cash outflows"
+    ],
+    "emoji": "⬆️💸",
+    "id": "gl042"
+  },
+  "cash receipt voucher": {
+    "word": "cash receipt voucher",
+    "definition": "a document used as proof that cash has been received.",
+    "variations": [
+      "cash receipt voucher",
+      "cash receipt vouchers"
+    ],
+    "emoji": "🧾💰",
+    "id": "gl043"
+  },
+  "cashflow": {
+    "word": "cashflow",
+    "definition": "the movement of money coming into and going out of a business",
+    "variations": [
+      "cashflow",
+      "cashflows",
+      "cash flow",
+      "cash flows"
+    ],
+    "emoji": "💵🔄",
+    "id": "gl044"
+  },
+  "cheque": {
+    "word": "cheque",
+    "definition": "a written order telling a bank to pay money from one account to another person or business",
+    "variations": [
+      "cheque",
+      "cheques"
+    ],
+    "emoji": "🏦💵",
+    "id": "gl045"
+  },
+  "chronological order": {
+    "word": "chronological order",
+    "definition": "the arrangement of events in the order in which they happened.",
+    "variations": [
+      "chronological order"
+    ],
+    "emoji": "⏰🗂️",
+    "id": "gl046"
+  },
+  "chronologically": {
+    "word": "chronologically",
+    "definition": "in the order in which events or transactions happen over time.",
+    "variations": [
+      "chronologically",
+      "chronological"
+    ],
+    "emoji": "🕒📅",
+    "id": "gl047"
+  },
+  "civilisation": {
+    "word": "civilisation",
+    "definition": "a developed human society with its own culture and systems",
+    "variations": [
+      "civilisation",
+      "civilisations"
+    ],
+    "emoji": "🏛️🌍",
+    "id": "gl048"
+  },
+  "closing inventory": {
+    "word": "closing inventory",
+    "definition": "the stock of goods a business has at the end of an accounting period.",
+    "variations": [
+      "closing inventory",
+      "closing inventories"
+    ],
+    "emoji": "📦🔚",
+    "id": "gl049"
+  },
+  "commission received": {
+    "word": "commission received",
+    "definition": "money earned for selling goods or services on behalf of another person or business.",
+    "variations": [
+      "commission received"
+    ],
+    "emoji": "🤝💰",
+    "id": "gl050"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability to do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "🎯💪",
+    "id": "gl051"
+  },
+  "compliance": {
+    "word": "compliance",
+    "definition": "acting according to rules or laws.",
+    "variations": [
+      "compliance"
+    ],
+    "emoji": "✅📜",
+    "id": "gl052"
+  },
+  "computation": {
+    "word": "computation",
+    "definition": "a calculation done to find totals, balances, or other figures",
+    "variations": [
+      "computation",
+      "computations",
+      "compute",
+      "computed"
+    ],
+    "emoji": "🧮➕",
+    "id": "gl053"
+  },
+  "concept": {
+    "word": "concept",
+    "definition": "a basic general idea about something",
+    "variations": [
+      "concept",
+      "concepts"
+    ],
+    "emoji": "💡",
+    "id": "gl054"
+  },
+  "consistency principle": {
+    "word": "consistency principle",
+    "definition": "the rule that the same accounting methods should be used over time unless there is a good reason to change them",
+    "variations": [
+      "consistency principle"
+    ],
+    "emoji": "🔁📘",
+    "id": "gl055"
+  },
+  "consumables": {
+    "word": "consumables",
+    "definition": "items that are used up in daily business work, like soap, creams, or towels",
+    "variations": [
+      "consumable"
+    ],
+    "emoji": "🧴🧼",
+    "id": "gl056"
+  },
+  "cost": {
+    "word": "cost",
+    "definition": "the amount of money needed to buy, make, or do something",
+    "variations": [
+      "cost",
+      "costs"
+    ],
+    "emoji": "💸🏷️",
+    "id": "gl057"
+  },
+  "cost of goods available for sale": {
+    "word": "cost of goods available for sale",
+    "definition": "the total cost of opening inventory plus net purchases that are ready to be sold.",
+    "variations": [
+      "cost of goods available for sale"
+    ],
+    "emoji": "📦🛒",
+    "id": "gl058"
+  },
+  "cost of goods sold": {
+    "word": "cost of goods sold",
+    "definition": "the total cost of the goods that a business has sold during a period.",
+    "variations": [
+      "cost of goods sold"
+    ],
+    "emoji": "📦💵",
+    "id": "gl059"
+  },
+  "credit": {
+    "word": "credit",
+    "definition": "a way of buying or selling now and paying later.",
+    "variations": [
+      "credit"
+    ],
+    "emoji": "💳⏳",
+    "id": "gl060"
+  },
+  "credit balance": {
+    "word": "credit balance",
+    "definition": "an amount recorded on the credit side of an account.",
+    "variations": [
+      "credit balance",
+      "credit balances"
+    ],
+    "emoji": "➡️🧾",
+    "id": "gl061"
+  },
+  "credit entry": {
+    "word": "credit entry",
+    "definition": "an entry on the right side of an account, used in recording increases or decreases in certain accounts",
+    "variations": [
+      "credit entry",
+      "credit entries"
+    ],
+    "emoji": "➡️📘",
+    "id": "gl062"
+  },
+  "credit note": {
+    "word": "credit note",
+    "definition": "a document showing that the seller has reduced the amount a buyer owes, usually because goods were returned.",
+    "variations": [
+      "credit note",
+      "credit notes"
+    ],
+    "emoji": "📄↩️",
+    "id": "gl063"
+  },
+  "credit purchase": {
+    "word": "credit purchase",
+    "definition": "buying goods now and paying for them later",
+    "variations": [
+      "credit purchase",
+      "credit purchases"
+    ],
+    "emoji": "🛒⏳",
+    "id": "gl064"
+  },
+  "credit sale": {
+    "word": "credit sale",
+    "definition": "selling goods now and receiving payment later.",
+    "variations": [
+      "credit sale",
+      "credit sales"
+    ],
+    "emoji": "💳📦",
+    "id": "gl065"
+  },
+  "creditor": {
+    "word": "creditor",
+    "definition": "a person or business that is owed money by the business",
+    "variations": [
+      "creditor",
+      "creditors"
+    ],
+    "emoji": "🤝💳",
+    "id": "gl066"
+  },
+  "current asset": {
+    "word": "current asset",
+    "definition": "an asset that is expected to be turned into cash within one year or one accounting period",
+    "variations": [
+      "current asset",
+      "current assets"
+    ],
+    "emoji": "⏳💵",
+    "id": "gl067"
+  },
+  "current liability": {
+    "word": "current liability",
+    "definition": "a debt that must be paid within one year or one accounting period",
+    "variations": [
+      "current liability",
+      "current liabilities"
+    ],
+    "emoji": "📆💳",
+    "id": "gl068"
+  },
+  "customer": {
+    "word": "customer",
+    "definition": "a person or business that buys goods or services",
+    "variations": [
+      "customer",
+      "customers"
+    ],
+    "emoji": "🧑‍💼🛍️",
+    "id": "gl069"
+  },
+  "daybook": {
+    "word": "daybook",
+    "definition": "a book of original entry where business transactions are first written down.",
+    "variations": [
+      "daybook",
+      "daybooks"
+    ],
+    "emoji": "📖📝",
+    "id": "gl070"
+  },
+  "debit": {
+    "word": "debit",
+    "definition": "an entry made on one side of an account to record part of a transaction",
+    "variations": [
+      "debit",
+      "debits"
+    ],
+    "emoji": "⬅️🧾",
+    "id": "gl071"
+  },
+  "debit balance": {
+    "word": "debit balance",
+    "definition": "an amount recorded on the debit side of an account.",
+    "variations": [
+      "debit balance",
+      "debit balances"
+    ],
+    "emoji": "⬅️🧾",
+    "id": "gl072"
+  },
+  "debit note": {
+    "word": "debit note",
+    "definition": "a document sent to show that the supplier’s account has been charged because goods were returned",
+    "variations": [
+      "debit note",
+      "debit notes"
+    ],
+    "emoji": "🧾➕",
+    "id": "gl073"
+  },
+  "debtor": {
+    "word": "debtor",
+    "definition": "a person or business that owes money to the business",
+    "variations": [
+      "debtors"
+    ],
+    "emoji": "🙍📥",
+    "id": "gl074"
+  },
+  "depositor": {
+    "word": "depositor",
+    "definition": "a person who puts money into a bank or a business account",
+    "variations": [
+      "deposit",
+      "deposited",
+      "depositing"
+    ],
+    "emoji": "🏦💰",
+    "id": "gl075"
+  },
+  "depreciation": {
+    "word": "depreciation",
+    "definition": "the gradual reduction in the value of a long-term asset over time",
+    "variations": [
+      "depreciation",
+      "depreciate",
+      "depreciating"
+    ],
+    "emoji": "📉🏷️",
+    "id": "gl076"
+  },
+  "discipline": {
+    "word": "discipline",
+    "definition": "a subject or field of study",
+    "variations": [
+      "discipline",
+      "disciplines"
+    ],
+    "emoji": "📘🎓",
+    "id": "gl077"
+  },
+  "discount": {
+    "word": "discount",
+    "definition": "a reduction in the usual price of something",
+    "variations": [
+      "discount",
+      "discounts"
+    ],
+    "emoji": "🏷️⬇️",
+    "id": "gl078"
+  },
+  "discount allowed": {
+    "word": "discount allowed",
+    "definition": "a reduction in price given by a business to its customers.",
+    "variations": [
+      "discount allowed"
+    ],
+    "emoji": "🏷️🤝",
+    "id": "gl079"
+  },
+  "discount received": {
+    "word": "discount received",
+    "definition": "a reduction in the amount a business has to pay, often for paying early",
+    "variations": [
+      "discount received",
+      "discounts received"
+    ],
+    "emoji": "🏷️💵",
+    "id": "gl080"
+  },
+  "double entry": {
+    "word": "double entry",
+    "definition": "an accounting system where every transaction affects at least two accounts.",
+    "variations": [
+      "double entry"
+    ],
+    "emoji": "↔️📘",
+    "id": "gl081"
+  },
+  "double entry principle": {
+    "word": "double entry principle",
+    "definition": "the accounting rule that every transaction affects at least two accounts with equal debit and credit entries",
+    "variations": [
+      "double entry principle",
+      "double entry",
+      "double entries"
+    ],
+    "emoji": "⚖️🔁",
+    "id": "gl082"
+  },
+  "double entry system": {
+    "word": "double entry system",
+    "definition": "an accounting system where every transaction affects at least two accounts",
+    "variations": [
+      "double entry system"
+    ],
+    "emoji": "⚖️📚",
+    "id": "gl083"
+  },
+  "double-entry": {
+    "word": "double-entry",
+    "definition": "an accounting system where every transaction affects at least two accounts, with equal debit and credit entries.",
+    "variations": [
+      "double-entry",
+      "double entry"
+    ],
+    "emoji": "⚖️🔁",
+    "id": "gl084"
+  },
+  "double-entry system": {
+    "word": "double-entry system",
+    "definition": "a bookkeeping system where every transaction is recorded in at least two accounts",
+    "variations": [
+      "double-entry system",
+      "double entry system"
+    ],
+    "emoji": "↔️📚",
+    "id": "gl085"
+  },
+  "drawee": {
+    "word": "drawee",
+    "definition": "the bank that is ordered to pay money on a cheque.",
+    "variations": [
+      "drawee",
+      "drawees"
+    ],
+    "emoji": "🏦📄",
+    "id": "gl086"
+  },
+  "drawer": {
+    "word": "drawer",
+    "definition": "the person who writes and signs a cheque.",
+    "variations": [
+      "drawer",
+      "drawers"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl087"
+  },
+  "drawings": {
+    "word": "drawings",
+    "definition": "money or assets taken out of the business by the owner for personal use",
+    "variations": [
+      "drawing",
+      "drawings",
+      "withdrawal",
+      "withdrawals"
+    ],
+    "emoji": "👤💵",
+    "id": "gl088"
+  },
+  "duality principle": {
+    "word": "duality principle",
+    "definition": "the rule that every business transaction has two equal effects in the accounts",
+    "variations": [
+      "duality principle",
+      "dual aspect",
+      "dual aspect principle"
+    ],
+    "emoji": "⚖️2️⃣",
+    "id": "gl089"
+  },
+  "enterprise": {
+    "word": "enterprise",
+    "definition": "a business or organisation that carries out commercial activities",
+    "variations": [
+      "enterprise",
+      "enterprises"
+    ],
+    "emoji": "🏬💼",
+    "id": "gl090"
+  },
+  "entry": {
+    "word": "entry",
+    "definition": "a record written in the books of accounts",
+    "variations": [
+      "entry",
+      "entries"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl091"
+  },
+  "equipment": {
+    "word": "equipment",
+    "definition": "tools or machines needed to do a job or run a business",
+    "variations": [
+      "equipment"
+    ],
+    "emoji": "🔧🍳",
+    "id": "gl092"
+  },
+  "equity": {
+    "word": "equity",
+    "definition": "the owner’s share in the business after deducting liabilities from assets",
+    "variations": [
+      "equity",
+      "owner’s equity"
+    ],
+    "emoji": "👤💼",
+    "id": "gl093"
+  },
+  "error": {
+    "word": "error",
+    "definition": "a mistake made when recording, calculating, or posting accounting information",
+    "variations": [
+      "error",
+      "errors"
+    ],
+    "emoji": "❌⚠️",
+    "id": "gl094"
+  },
+  "evaluate": {
+    "word": "evaluate",
+    "definition": "to examine something carefully in order to judge its value or success",
+    "variations": [
+      "evaluate",
+      "evaluates",
+      "evaluated",
+      "evaluating",
+      "evaluation"
+    ],
+    "emoji": "🔍📊",
+    "id": "gl095"
+  },
+  "evaluation": {
+    "word": "evaluation",
+    "definition": "the process of checking or judging how well something has been done.",
+    "variations": [
+      "evaluation",
+      "evaluations",
+      "evaluate",
+      "evaluating"
+    ],
+    "emoji": "📊✅",
+    "id": "gl096"
+  },
+  "expense": {
+    "word": "expense",
+    "definition": "money spent by a business in order to operate or buy goods.",
+    "variations": [
+      "expense",
+      "expenses"
+    ],
+    "emoji": "💰📉",
+    "id": "gl097"
+  },
+  "expenses": {
+    "word": "expenses",
+    "definition": "costs a business pays while operating, such as wages, rent, or advertising.",
+    "variations": [
+      "expense",
+      "expenses"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl098"
+  },
+  "financial": {
+    "word": "financial",
+    "definition": "related to money and how it is managed",
+    "variations": [
+      "financial"
+    ],
+    "emoji": "💰📈",
+    "id": "gl099"
+  },
+  "financial position": {
+    "word": "financial position",
+    "definition": "the state of a business in terms of what it owns, what it owes, and the owner’s interest",
+    "variations": [
+      "financial position",
+      "financial positions"
+    ],
+    "emoji": "📍💼",
+    "id": "gl100"
+  },
+  "financial statement": {
+    "word": "financial statement",
+    "definition": "a report that shows the financial position and performance of a business",
+    "variations": [
+      "financial statement",
+      "financial statements"
+    ],
+    "emoji": "📊🧾",
+    "id": "gl101"
+  },
+  "financial statements": {
+    "word": "financial statements",
+    "definition": "reports that show the financial performance and position of a business.",
+    "variations": [
+      "financial statement",
+      "financial statements"
+    ],
+    "emoji": "📊🧾",
+    "id": "gl102"
+  },
+  "financing activities": {
+    "word": "financing activities",
+    "definition": "activities related to getting or repaying money from owners or lenders.",
+    "variations": [
+      "financing activity",
+      "financing activities"
+    ],
+    "emoji": "🏦💳",
+    "id": "gl103"
+  },
+  "fittings": {
+    "word": "fittings",
+    "definition": "fixed items used in a building or business, such as shelves or lights",
+    "variations": [
+      "fitting"
+    ],
+    "emoji": "🔧🏬",
+    "id": "gl104"
+  },
+  "fixtures": {
+    "word": "fixtures",
+    "definition": "items fixed to a property, such as lights or built-in shelves",
+    "variations": [
+      "fixture",
+      "fixtures"
+    ],
+    "emoji": "💡🪚",
+    "id": "gl105"
+  },
+  "folio": {
+    "word": "folio",
+    "definition": "a reference number used to help find related entries in books of account.",
+    "variations": [
+      "folio",
+      "folios"
+    ],
+    "emoji": "🔢📑",
+    "id": "gl106"
+  },
+  "furniture": {
+    "word": "furniture",
+    "definition": "items such as tables, chairs, and desks used in a business",
+    "variations": [
+      "furnitures"
+    ],
+    "emoji": "🪑🛋️",
+    "id": "gl107"
+  },
+  "general journal": {
+    "word": "general journal",
+    "definition": "the main book where business transactions are first recorded in order",
+    "variations": [
+      "general journal",
+      "general journals"
+    ],
+    "emoji": "📔🧾",
+    "id": "gl108"
+  },
+  "general ledger": {
+    "word": "general ledger",
+    "definition": "the main ledger that contains all the main accounts of a business.",
+    "variations": [
+      "general ledger",
+      "general ledgers"
+    ],
+    "emoji": "📗🏢",
+    "id": "gl109"
+  },
+  "going concern": {
+    "word": "going concern",
+    "definition": "the idea that a business will continue operating for the foreseeable future",
+    "variations": [
+      "going concern",
+      "going concern concept",
+      "going concern principle"
+    ],
+    "emoji": "🏢➡️",
+    "id": "gl110"
+  },
+  "going concern principle": {
+    "word": "going concern principle",
+    "definition": "the idea that a business is expected to continue operating for the foreseeable future",
+    "variations": [
+      "going concern principle",
+      "going concern",
+      "continuity assumption"
+    ],
+    "emoji": "🏢➡️",
+    "id": "gl111"
+  },
+  "goods": {
+    "word": "goods",
+    "definition": "things that are made or bought to be sold",
+    "variations": [
+      "good",
+      "goods"
+    ],
+    "emoji": "📦🛍️",
+    "id": "gl112"
+  },
+  "gross loss": {
+    "word": "gross loss",
+    "definition": "the amount by which the cost of goods sold is more than net sales.",
+    "variations": [
+      "gross loss",
+      "gross losses"
+    ],
+    "emoji": "📉💸",
+    "id": "gl113"
+  },
+  "gross profit": {
+    "word": "gross profit",
+    "definition": "the profit made after subtracting the cost of goods sold from sales",
+    "variations": [
+      "gross profit",
+      "gross profits"
+    ],
+    "emoji": "📈💰",
+    "id": "gl114"
+  },
+  "historical cost": {
+    "word": "historical cost",
+    "definition": "the original price paid for an asset when the business bought it",
+    "variations": [
+      "historical cost",
+      "historical cost concept"
+    ],
+    "emoji": "🧾💲",
+    "id": "gl115"
+  },
+  "historical cost principle": {
+    "word": "historical cost principle",
+    "definition": "the rule that assets are recorded at the original amount paid for them",
+    "variations": [
+      "historical cost principle",
+      "historical cost accounting"
+    ],
+    "emoji": "🏷️📜",
+    "id": "gl116"
+  },
+  "impersonal account": {
+    "word": "impersonal account",
+    "definition": "an account that does not relate to a person, but to assets, liabilities, expenses, or income.",
+    "variations": [
+      "impersonal account",
+      "impersonal accounts"
+    ],
+    "emoji": "📂🏦",
+    "id": "gl117"
+  },
+  "income": {
+    "word": "income",
+    "definition": "money received by a person or business",
+    "variations": [
+      "income",
+      "incomes"
+    ],
+    "emoji": "💵📥",
+    "id": "gl118"
+  },
+  "income statement": {
+    "word": "income statement",
+    "definition": "a financial statement that shows the profit or loss of a business for a period.",
+    "variations": [
+      "income statement",
+      "income statements"
+    ],
+    "emoji": "📈📄",
+    "id": "gl119"
+  },
+  "insurance": {
+    "word": "insurance",
+    "definition": "payment made for protection against possible loss or damage.",
+    "variations": [
+      "insurance"
+    ],
+    "emoji": "🛡️📄",
+    "id": "gl120"
+  },
+  "interest": {
+    "word": "interest",
+    "definition": "money paid for using borrowed money or earned from lending money",
+    "variations": [
+      "interest",
+      "interests"
+    ],
+    "emoji": "🏦💲",
+    "id": "gl121"
+  },
+  "inventory": {
+    "word": "inventory",
+    "definition": "goods a business keeps for sale or for use in providing services",
+    "variations": [
+      "inventory",
+      "inventories"
+    ],
+    "emoji": "📦🏷️",
+    "id": "gl122"
+  },
+  "investing activities": {
+    "word": "investing activities",
+    "definition": "business activities involving buying or selling long-term assets or investments.",
+    "variations": [
+      "investing activity",
+      "investing activities"
+    ],
+    "emoji": "🏗️📈",
+    "id": "gl123"
+  },
+  "investment": {
+    "word": "investment",
+    "definition": "using money in a business or asset with the hope of gaining benefit later",
+    "variations": [
+      "investment",
+      "investments",
+      "invest"
+    ],
+    "emoji": "📈💵",
+    "id": "gl124"
+  },
+  "investor": {
+    "word": "investor",
+    "definition": "a person or organisation that puts money into a business to earn profit",
+    "variations": [
+      "investor",
+      "investors"
+    ],
+    "emoji": "💼📈",
+    "id": "gl125"
+  },
+  "invoice": {
+    "word": "invoice",
+    "definition": "a document showing details and cost of goods sold or bought.",
+    "variations": [
+      "invoice",
+      "invoices"
+    ],
+    "emoji": "🧾📄",
+    "id": "gl126"
+  },
+  "journal": {
+    "word": "journal",
+    "definition": "a book or record where business transactions are first written down in date order",
+    "variations": [
+      "journal",
+      "journals"
+    ],
+    "emoji": "📘📝",
+    "id": "gl127"
+  },
+  "journal entry": {
+    "word": "journal entry",
+    "definition": "a record of a business transaction showing which accounts are debited and credited.",
+    "variations": [
+      "journal entry",
+      "journal entries"
+    ],
+    "emoji": "✍️📔",
+    "id": "gl128"
+  },
+  "journal proper": {
+    "word": "journal proper",
+    "definition": "the main journal used to record transactions that are not entered in special journals.",
+    "variations": [
+      "journal proper",
+      "general journal",
+      "general journals"
+    ],
+    "emoji": "📔✍️",
+    "id": "gl129"
+  },
+  "journal voucher": {
+    "word": "journal voucher",
+    "definition": "a source document used to authorise and give evidence for transactions that are not recorded using other source documents",
+    "variations": [
+      "journal voucher",
+      "journal vouchers"
+    ],
+    "emoji": "📄✅",
+    "id": "gl130"
+  },
+  "ledger": {
+    "word": "ledger",
+    "definition": "a book or record that keeps accounts in an organised way.",
+    "variations": [
+      "ledger",
+      "ledgers"
+    ],
+    "emoji": "📚🧾",
+    "id": "gl131"
+  },
+  "liabilities": {
+    "word": "liabilities",
+    "definition": "amounts a business owes to other people or organisations.",
+    "variations": [
+      "liability",
+      "liabilities"
+    ],
+    "emoji": "💳📌",
+    "id": "gl132"
+  },
+  "liability": {
+    "word": "liability",
+    "definition": "money that a business owes to other people or businesses.",
+    "variations": [
+      "liability",
+      "liabilities"
+    ],
+    "emoji": "💸⚖️",
+    "id": "gl133"
+  },
+  "liquidity": {
+    "word": "liquidity",
+    "definition": "the ability of a business to pay its short-term debts quickly.",
+    "variations": [
+      "liquidity"
+    ],
+    "emoji": "💧💵",
+    "id": "gl134"
+  },
+  "loan": {
+    "word": "loan",
+    "definition": "money borrowed from a person or institution that must be paid back later",
+    "variations": [
+      "loan",
+      "loans",
+      "bank loan",
+      "bank loans",
+      "term loan",
+      "term loans"
+    ],
+    "emoji": "🏦💰",
+    "id": "gl135"
+  },
+  "loss": {
+    "word": "loss",
+    "definition": "the amount by which expenses are more than income.",
+    "variations": [
+      "loss",
+      "losses"
+    ],
+    "emoji": "📉💸",
+    "id": "gl136"
+  },
+  "machinery": {
+    "word": "machinery",
+    "definition": "machines used in a business to do work",
+    "variations": [
+      "machine",
+      "machines"
+    ],
+    "emoji": "⚙️🏭",
+    "id": "gl137"
+  },
+  "maintain": {
+    "word": "maintain",
+    "definition": "to keep something in good order or continue using it properly",
+    "variations": [
+      "maintain",
+      "maintains",
+      "maintained",
+      "maintaining",
+      "maintenance"
+    ],
+    "emoji": "🛠️📚",
+    "id": "gl138"
+  },
+  "matching principle": {
+    "word": "matching principle",
+    "definition": "the rule that expenses should be recorded in the same period as the revenue they helped to earn",
+    "variations": [
+      "matching principle"
+    ],
+    "emoji": "⚖️📊",
+    "id": "gl139"
+  },
+  "materiality principle": {
+    "word": "materiality principle",
+    "definition": "the rule that important financial information that can affect decisions should be shown clearly in reports",
+    "variations": [
+      "materiality principle",
+      "materiality"
+    ],
+    "emoji": "🔍📌",
+    "id": "gl140"
+  },
+  "materials": {
+    "word": "materials",
+    "definition": "items or substances used to make or produce something",
+    "variations": [
+      "material",
+      "materials"
+    ],
+    "emoji": "📦🧱",
+    "id": "gl141"
+  },
+  "medieval": {
+    "word": "medieval",
+    "definition": "related to the period of history called the Middle Ages",
+    "variations": [
+      "medieval"
+    ],
+    "emoji": "🏰📜",
+    "id": "gl142"
+  },
+  "monetary unit principle": {
+    "word": "monetary unit principle",
+    "definition": "the rule that business records should be kept using money as the common measure",
+    "variations": [
+      "monetary unit principle",
+      "monetary measurement principle",
+      "unit of measurement principle"
+    ],
+    "emoji": "💱📏",
+    "id": "gl143"
+  },
+  "motor vehicle": {
+    "word": "motor vehicle",
+    "definition": "a vehicle used by the business for transport.",
+    "variations": [
+      "motor vehicle",
+      "motor vehicles"
+    ],
+    "emoji": "🚗🚚",
+    "id": "gl144"
+  },
+  "narrative": {
+    "word": "narrative",
+    "definition": "a short explanation written in the journal to describe a transaction.",
+    "variations": [
+      "narrative",
+      "narratives"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl145"
+  },
+  "net income": {
+    "word": "net income",
+    "definition": "the profit left after expenses are subtracted from revenue",
+    "variations": [
+      "net income"
+    ],
+    "emoji": "📈💰",
+    "id": "gl146"
+  },
+  "net loss": {
+    "word": "net loss",
+    "definition": "the amount by which expenses are more than revenue",
+    "variations": [
+      "net loss",
+      "net losses"
+    ],
+    "emoji": "📉💸",
+    "id": "gl147"
+  },
+  "net purchases": {
+    "word": "net purchases",
+    "definition": "purchases left after subtracting purchases returns from total purchases.",
+    "variations": [
+      "net purchase",
+      "net purchases"
+    ],
+    "emoji": "🛒➖",
+    "id": "gl148"
+  },
+  "net sales": {
+    "word": "net sales",
+    "definition": "sales left after subtracting sales returns from total sales.",
+    "variations": [
+      "net sale",
+      "net sales"
+    ],
+    "emoji": "💰➖",
+    "id": "gl149"
+  },
+  "nominal account": {
+    "word": "nominal account",
+    "definition": "an account for expenses, losses, revenues, or gains that is closed at the end of the period.",
+    "variations": [
+      "nominal account",
+      "nominal accounts"
+    ],
+    "emoji": "📉📈",
+    "id": "gl150"
+  },
+  "non-current asset": {
+    "word": "non-current asset",
+    "definition": "an asset that a business uses for more than one year and does not expect to turn into cash soon",
+    "variations": [
+      "non-current asset",
+      "non-current assets"
+    ],
+    "emoji": "🏭📦",
+    "id": "gl151"
+  },
+  "non-current liability": {
+    "word": "non-current liability",
+    "definition": "a debt that will be paid after more than one year",
+    "variations": [
+      "non-current liability",
+      "non-current liabilities"
+    ],
+    "emoji": "🕒💼",
+    "id": "gl152"
+  },
+  "non-productive assets": {
+    "word": "non-productive assets",
+    "definition": "assets in a business that are not being fully used to earn revenue",
+    "variations": [
+      "non-productive asset",
+      "non-productive assets"
+    ],
+    "emoji": "🏢⚠️",
+    "id": "gl153"
+  },
+  "normal balance": {
+    "word": "normal balance",
+    "definition": "the usual side, debit or credit, where an account is expected to have its balance.",
+    "variations": [
+      "normal balance",
+      "normal balances"
+    ],
+    "emoji": "⚖️📚",
+    "id": "gl154"
+  },
+  "objective": {
+    "word": "objective",
+    "definition": "something a person or business plans to achieve",
+    "variations": [
+      "objective",
+      "objectives"
+    ],
+    "emoji": "🎯",
+    "id": "gl155"
+  },
+  "occupation": {
+    "word": "occupation",
+    "definition": "a person’s main job or business used to earn a living",
+    "variations": [
+      "occupation",
+      "occupations"
+    ],
+    "emoji": "💼🧑‍💼",
+    "id": "gl156"
+  },
+  "omission": {
+    "word": "omission",
+    "definition": "an error caused by leaving out a transaction or entry.",
+    "variations": [
+      "omission",
+      "omissions"
+    ],
+    "emoji": "❌🕳️",
+    "id": "gl157"
+  },
+  "opening entries": {
+    "word": "opening entries",
+    "definition": "the first journal entries made when starting a business or beginning a new accounting period.",
+    "variations": [
+      "opening entry",
+      "opening entries"
+    ],
+    "emoji": "🚪✍️",
+    "id": "gl158"
+  },
+  "opening inventory": {
+    "word": "opening inventory",
+    "definition": "the stock of goods a business has at the beginning of an accounting period.",
+    "variations": [
+      "opening inventory",
+      "opening inventories"
+    ],
+    "emoji": "📦🚪",
+    "id": "gl159"
+  },
+  "operating activities": {
+    "word": "operating activities",
+    "definition": "day-to-day business actions that bring in or use cash.",
+    "variations": [
+      "operating activity",
+      "operating activities"
+    ],
+    "emoji": "🏪🔄",
+    "id": "gl160"
+  },
+  "outstanding balance": {
+    "word": "outstanding balance",
+    "definition": "the amount of money that still remains unpaid.",
+    "variations": [
+      "outstanding balance",
+      "outstanding balances"
+    ],
+    "emoji": "💰⏳",
+    "id": "gl161"
+  },
+  "overdraft": {
+    "word": "overdraft",
+    "definition": "money withdrawn from a bank account beyond the amount available, creating a debt to the bank",
+    "variations": [
+      "bank overdraft",
+      "overdrafts"
+    ],
+    "emoji": "🏦➖",
+    "id": "gl162"
+  },
+  "owner’s equity": {
+    "word": "owner’s equity",
+    "definition": "the value of the owner’s interest in the business",
+    "variations": [
+      "owner’s equity",
+      "equity"
+    ],
+    "emoji": "👤💰",
+    "id": "gl163"
+  },
+  "payable": {
+    "word": "payable",
+    "definition": "money that a business must pay to another person or business",
+    "variations": [
+      "payables",
+      "accounts payable"
+    ],
+    "emoji": "📤💳",
+    "id": "gl164"
+  },
+  "payables": {
+    "word": "payables",
+    "definition": "amounts a business must pay to suppliers or other people.",
+    "variations": [
+      "payable",
+      "payables"
+    ],
+    "emoji": "💳📄",
+    "id": "gl165"
+  },
+  "payee": {
+    "word": "payee",
+    "definition": "the person or business that receives money from a cheque.",
+    "variations": [
+      "payee",
+      "payees"
+    ],
+    "emoji": "👥💵",
+    "id": "gl166"
+  },
+  "payment": {
+    "word": "payment",
+    "definition": "money given to buy something or settle an amount owed.",
+    "variations": [
+      "payment",
+      "payments"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl167"
+  },
+  "payment voucher": {
+    "word": "payment voucher",
+    "definition": "a document used as proof that money has been paid.",
+    "variations": [
+      "payment voucher",
+      "payment vouchers"
+    ],
+    "emoji": "💸📄",
+    "id": "gl168"
+  },
+  "personal account": {
+    "word": "personal account",
+    "definition": "an account that records transactions relating to a person or organisation.",
+    "variations": [
+      "personal account",
+      "personal accounts"
+    ],
+    "emoji": "👤📒",
+    "id": "gl169"
+  },
+  "petty cash": {
+    "word": "petty cash",
+    "definition": "a small amount of cash kept for minor daily expenses.",
+    "variations": [
+      "petty cash"
+    ],
+    "emoji": "🪙💵",
+    "id": "gl170"
+  },
+  "petty cash voucher": {
+    "word": "petty cash voucher",
+    "definition": "a document used as proof for a small payment made from petty cash.",
+    "variations": [
+      "petty cash voucher",
+      "petty cash vouchers"
+    ],
+    "emoji": "🧾🪙",
+    "id": "gl171"
+  },
+  "portfolio": {
+    "word": "portfolio",
+    "definition": "a collection of a student’s work kept as evidence of learning",
+    "variations": [
+      "portfolio",
+      "portfolios"
+    ],
+    "emoji": "📁📝",
+    "id": "gl172"
+  },
+  "posting": {
+    "word": "posting",
+    "definition": "the act of transferring figures from journals to ledger accounts.",
+    "variations": [
+      "posting",
+      "post",
+      "posted",
+      "posts"
+    ],
+    "emoji": "📝➡️",
+    "id": "gl173"
+  },
+  "premises": {
+    "word": "premises",
+    "definition": "the building or place where a business operates.",
+    "variations": [
+      "premises"
+    ],
+    "emoji": "🏢📍",
+    "id": "gl174"
+  },
+  "private ledger": {
+    "word": "private ledger",
+    "definition": "a ledger that keeps confidential business information for limited people to see.",
+    "variations": [
+      "private ledger",
+      "private ledgers"
+    ],
+    "emoji": "🔒📒",
+    "id": "gl175"
+  },
+  "profit": {
+    "word": "profit",
+    "definition": "the amount by which income is more than expenses.",
+    "variations": [
+      "profit",
+      "profits",
+      "profitable",
+      "profitability"
+    ],
+    "emoji": "💰📈",
+    "id": "gl176"
+  },
+  "profitability": {
+    "word": "profitability",
+    "definition": "the ability of a business to make profit.",
+    "variations": [
+      "profitability"
+    ],
+    "emoji": "📈💰",
+    "id": "gl177"
+  },
+  "prudence": {
+    "word": "prudence",
+    "definition": "the practice of being careful in accounting so that assets and income are not overstated",
+    "variations": [
+      "prudence",
+      "conservatism principle",
+      "prudence principle"
+    ],
+    "emoji": "⚠️🧠",
+    "id": "gl178"
+  },
+  "purchase daybook": {
+    "word": "purchase daybook",
+    "definition": "a book used to record goods bought on credit from suppliers.",
+    "variations": [
+      "purchase daybook",
+      "purchase daybooks"
+    ],
+    "emoji": "📗🛍️",
+    "id": "gl179"
+  },
+  "purchase returns daybook": {
+    "word": "purchase returns daybook",
+    "definition": "a book of prime entry used to record goods that a business returns to suppliers on credit.",
+    "variations": [
+      "purchase returns daybook",
+      "purchases returns daybook",
+      "purchase return daybook",
+      "purchase returns daybooks"
+    ],
+    "emoji": "📘↩️🛒",
+    "id": "gl180"
+  },
+  "purchase returns journal": {
+    "word": "purchase returns journal",
+    "definition": "a book used to record goods returned to suppliers after being bought on credit.",
+    "variations": [
+      "purchase returns journal",
+      "purchase returns daybook"
+    ],
+    "emoji": "🔁📘",
+    "id": "gl181"
+  },
+  "purchases": {
+    "word": "purchases",
+    "definition": "goods or items bought by a business.",
+    "variations": [
+      "purchase",
+      "purchases",
+      "purchased"
+    ],
+    "emoji": "🛒📦",
+    "id": "gl182"
+  },
+  "purchases account": {
+    "word": "purchases account",
+    "definition": "an account that records the total value of goods bought by a business.",
+    "variations": [
+      "purchases account",
+      "purchase account",
+      "purchases accounts",
+      "purchase accounts"
+    ],
+    "emoji": "🛒📈",
+    "id": "gl183"
+  },
+  "purchases daybook": {
+    "word": "purchases daybook",
+    "definition": "a special journal used to record goods bought on credit",
+    "variations": [
+      "purchases daybook",
+      "purchase daybook",
+      "purchases journal"
+    ],
+    "emoji": "🛒📔",
+    "id": "gl184"
+  },
+  "purchases journal": {
+    "word": "purchases journal",
+    "definition": "a book used to record goods bought on credit from suppliers.",
+    "variations": [
+      "purchases journal",
+      "purchase journal",
+      "purchases journals",
+      "purchase journals"
+    ],
+    "emoji": "🛒📘",
+    "id": "gl185"
+  },
+  "purchases ledger": {
+    "word": "purchases ledger",
+    "definition": "a subsidiary ledger that keeps accounts of suppliers or creditors.",
+    "variations": [
+      "purchases ledger",
+      "purchase ledger",
+      "purchases ledgers"
+    ],
+    "emoji": "📒🛍️",
+    "id": "gl186"
+  },
+  "purchases return": {
+    "word": "purchases return",
+    "definition": "goods that a business sends back to the supplier after buying them.",
+    "variations": [
+      "purchase return",
+      "purchases return",
+      "purchases returns"
+    ],
+    "emoji": "🔁📦",
+    "id": "gl187"
+  },
+  "purchases returns": {
+    "word": "purchases returns",
+    "definition": "goods bought by a business but later returned to the supplier.",
+    "variations": [
+      "purchases return",
+      "purchases returns"
+    ],
+    "emoji": "↩️🛍️",
+    "id": "gl188"
+  },
+  "purchases returns account": {
+    "word": "purchases returns account",
+    "definition": "an account that records the total value of goods returned to suppliers.",
+    "variations": [
+      "purchases returns account",
+      "purchase returns account",
+      "purchases returns accounts",
+      "purchase returns accounts"
+    ],
+    "emoji": "↩️🛒",
+    "id": "gl189"
+  },
+  "purchases returns daybook": {
+    "word": "purchases returns daybook",
+    "definition": "a special journal used to record goods returned by a business to its supplier",
+    "variations": [
+      "purchases returns daybook",
+      "purchases returns journal",
+      "purchase returns journal"
+    ],
+    "emoji": "↩️🛒",
+    "id": "gl190"
+  },
+  "purchases returns journal": {
+    "word": "purchases returns journal",
+    "definition": "a book used to record goods returned to suppliers after credit purchases.",
+    "variations": [
+      "purchases returns journal",
+      "purchase returns journal",
+      "purchases returns journals",
+      "purchase returns journals"
+    ],
+    "emoji": "↩️🛒📘",
+    "id": "gl191"
+  },
+  "real account": {
+    "word": "real account",
+    "definition": "an account for assets or liabilities whose balance is carried forward to the next period.",
+    "variations": [
+      "real account",
+      "real accounts"
+    ],
+    "emoji": "🏠💰",
+    "id": "gl192"
+  },
+  "receipt": {
+    "word": "receipt",
+    "definition": "money received by a business, or a document showing that money has been received.",
+    "variations": [
+      "receipt",
+      "receipts"
+    ],
+    "emoji": "🧾💵",
+    "id": "gl193"
+  },
+  "receivable": {
+    "word": "receivable",
+    "definition": "money that other people or businesses owe to the business",
+    "variations": [
+      "receivables",
+      "accounts receivable"
+    ],
+    "emoji": "📥💰",
+    "id": "gl194"
+  },
+  "receivables": {
+    "word": "receivables",
+    "definition": "amounts owed to a business by customers.",
+    "variations": [
+      "receivable",
+      "receivables"
+    ],
+    "emoji": "💰📥",
+    "id": "gl195"
+  },
+  "reconciliation": {
+    "word": "reconciliation",
+    "definition": "the process of comparing records to make sure figures agree and are correct.",
+    "variations": [
+      "reconciliation",
+      "reconciliations",
+      "reconcile",
+      "reconciled"
+    ],
+    "emoji": "🔍⚖️",
+    "id": "gl196"
+  },
+  "record": {
+    "word": "record",
+    "definition": "to write down information so it can be kept and used later",
+    "variations": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "emoji": "📝📚",
+    "id": "gl197"
+  },
+  "record-keeping": {
+    "word": "record-keeping",
+    "definition": "the process of writing down and storing business records properly.",
+    "variations": [
+      "record-keeping"
+    ],
+    "emoji": "🗂️✍️",
+    "id": "gl198"
+  },
+  "rent": {
+    "word": "rent",
+    "definition": "money paid or received for the use of property or space.",
+    "variations": [
+      "rent",
+      "rents",
+      "rented"
+    ],
+    "emoji": "🏠💸",
+    "id": "gl199"
+  },
+  "rent income": {
+    "word": "rent income",
+    "definition": "money received from renting out property or space.",
+    "variations": [
+      "rent income"
+    ],
+    "emoji": "🏠💰",
+    "id": "gl200"
+  },
+  "reporting": {
+    "word": "reporting",
+    "definition": "the act of giving organised information, usually in written form",
+    "variations": [
+      "report",
+      "reports",
+      "reported",
+      "reporting"
+    ],
+    "emoji": "📄📢",
+    "id": "gl201"
+  },
+  "retained earnings": {
+    "word": "retained earnings",
+    "definition": "profit kept in the business instead of being taken out by the owner",
+    "variations": [
+      "retained earnings"
+    ],
+    "emoji": "🏦📈",
+    "id": "gl202"
+  },
+  "returns": {
+    "word": "returns",
+    "definition": "goods sent back after being bought or sold.",
+    "variations": [
+      "return",
+      "returns",
+      "returned"
+    ],
+    "emoji": "🔄📦",
+    "id": "gl203"
+  },
+  "revenue": {
+    "word": "revenue",
+    "definition": "money a business earns from selling goods or services",
+    "variations": [
+      "revenue",
+      "revenues"
+    ],
+    "emoji": "💵📈",
+    "id": "gl204"
+  },
+  "revenue recognition principle": {
+    "word": "revenue recognition principle",
+    "definition": "the rule that revenue should be recorded when it is earned, not just when cash is received",
+    "variations": [
+      "revenue recognition principle"
+    ],
+    "emoji": "✅💵",
+    "id": "gl205"
+  },
+  "risk": {
+    "word": "risk",
+    "definition": "the chance that actual results may be different from what was expected, often with possible loss or danger.",
+    "variations": [
+      "risk",
+      "risks",
+      "risky",
+      "riskiness"
+    ],
+    "emoji": "⚠️📉",
+    "id": "gl206"
+  },
+  "salaries": {
+    "word": "salaries",
+    "definition": "regular payments made to employees, usually monthly.",
+    "variations": [
+      "salary",
+      "salaries"
+    ],
+    "emoji": "👔💵",
+    "id": "gl207"
+  },
+  "sale": {
+    "word": "sale",
+    "definition": "the exchange of goods or services for money",
+    "variations": [
+      "sale",
+      "sales"
+    ],
+    "emoji": "🛍️💵",
+    "id": "gl208"
+  },
+  "sales": {
+    "word": "sales",
+    "definition": "goods or services sold by a business for money.",
+    "variations": [
+      "sale",
+      "sales",
+      "sold"
+    ],
+    "emoji": "🏷️💵",
+    "id": "gl209"
+  },
+  "sales account": {
+    "word": "sales account",
+    "definition": "an account that records the total value of goods sold.",
+    "variations": [
+      "sales account",
+      "sales accounts"
+    ],
+    "emoji": "💰📈",
+    "id": "gl210"
+  },
+  "sales daybook": {
+    "word": "sales daybook",
+    "definition": "a special journal used to record goods sold on credit",
+    "variations": [
+      "sales daybook",
+      "sales journal"
+    ],
+    "emoji": "💼📔",
+    "id": "gl211"
+  },
+  "sales journal": {
+    "word": "sales journal",
+    "definition": "a book used to record goods sold on credit.",
+    "variations": [
+      "sales journal",
+      "sales journals"
+    ],
+    "emoji": "📘💰",
+    "id": "gl212"
+  },
+  "sales ledger": {
+    "word": "sales ledger",
+    "definition": "a subsidiary ledger that keeps accounts of customers who buy on credit.",
+    "variations": [
+      "sales ledger",
+      "sales ledgers"
+    ],
+    "emoji": "📒👥",
+    "id": "gl213"
+  },
+  "sales return daybook": {
+    "word": "sales return daybook",
+    "definition": "a book of prime entry used to record goods returned by customers who bought on credit.",
+    "variations": [
+      "sales return daybook",
+      "sales returns daybook",
+      "sales return daybooks"
+    ],
+    "emoji": "📕↩️💼",
+    "id": "gl214"
+  },
+  "sales returns": {
+    "word": "sales returns",
+    "definition": "goods that customers send back to the business after buying them.",
+    "variations": [
+      "sales return",
+      "sales returns"
+    ],
+    "emoji": "↩️📦",
+    "id": "gl215"
+  },
+  "sales returns account": {
+    "word": "sales returns account",
+    "definition": "an account that records the total value of goods returned by customers.",
+    "variations": [
+      "sales returns account",
+      "sales return account",
+      "sales returns accounts",
+      "sales return accounts"
+    ],
+    "emoji": "↩️💰",
+    "id": "gl216"
+  },
+  "sales returns daybook": {
+    "word": "sales returns daybook",
+    "definition": "a special journal used to record goods returned by customers",
+    "variations": [
+      "sales returns daybook",
+      "sales return journal",
+      "sales returns journal"
+    ],
+    "emoji": "↩️📔",
+    "id": "gl217"
+  },
+  "sales returns journal": {
+    "word": "sales returns journal",
+    "definition": "a book used to record goods returned by customers after credit sales.",
+    "variations": [
+      "sales returns journal",
+      "sales returns journals"
+    ],
+    "emoji": "↩️📘",
+    "id": "gl218"
+  },
+  "service": {
+    "word": "service",
+    "definition": "work done for someone instead of selling a physical product",
+    "variations": [
+      "service",
+      "services"
+    ],
+    "emoji": "🛠️🤝",
+    "id": "gl219"
+  },
+  "services": {
+    "word": "services",
+    "definition": "activities or work sold to others that are not physical goods",
+    "variations": [
+      "service",
+      "services"
+    ],
+    "emoji": "🛠️🤝",
+    "id": "gl220"
+  },
+  "single entry": {
+    "word": "single entry",
+    "definition": "a simple book-keeping method where each transaction is recorded once",
+    "variations": [
+      "single entry",
+      "single-entry"
+    ],
+    "emoji": "1️⃣🧾",
+    "id": "gl221"
+  },
+  "single entry system": {
+    "word": "single entry system",
+    "definition": "a simple book-keeping system where each transaction is recorded only once, mainly for cash received or paid",
+    "variations": [
+      "single entry system",
+      "single-entry system",
+      "single entry book-keeping"
+    ],
+    "emoji": "📝1️⃣",
+    "id": "gl222"
+  },
+  "sole proprietor": {
+    "word": "sole proprietor",
+    "definition": "one person who owns and runs a business alone",
+    "variations": [
+      "sole proprietor",
+      "sole proprietors",
+      "sole proprietorship"
+    ],
+    "emoji": "👤🏪",
+    "id": "gl223"
+  },
+  "sole-proprietor": {
+    "word": "sole-proprietor",
+    "definition": "the single owner of a business",
+    "variations": [
+      "sole-proprietor",
+      "sole proprietors",
+      "sole proprietor"
+    ],
+    "emoji": "👤🏪",
+    "id": "gl224"
+  },
+  "solvency": {
+    "word": "solvency",
+    "definition": "the ability of a business to pay its long-term debts.",
+    "variations": [
+      "solvency"
+    ],
+    "emoji": "🏦✅",
+    "id": "gl225"
+  },
+  "source document": {
+    "word": "source document",
+    "definition": "an original document that provides proof that a business transaction took place",
+    "variations": [
+      "source document",
+      "source documents"
+    ],
+    "emoji": "📄🧾",
+    "id": "gl226"
+  },
+  "stakeholder": {
+    "word": "stakeholder",
+    "definition": "a person or group with an interest in the business, such as owners, creditors, or managers.",
+    "variations": [
+      "stakeholder",
+      "stakeholders"
+    ],
+    "emoji": "👥🏢",
+    "id": "gl227"
+  },
+  "stakeholders": {
+    "word": "stakeholders",
+    "definition": "people or groups who have an interest in a business, such as owners, customers, banks, and suppliers.",
+    "variations": [
+      "stakeholder",
+      "stakeholders"
+    ],
+    "emoji": "👥🏢",
+    "id": "gl228"
+  },
+  "statement": {
+    "word": "statement",
+    "definition": "a written report showing financial information",
+    "variations": [
+      "statement",
+      "statements"
+    ],
+    "emoji": "📄📈",
+    "id": "gl229"
+  },
+  "statement of account": {
+    "word": "statement of account",
+    "definition": "a document showing amounts billed, amounts paid, and the balance still owed.",
+    "variations": [
+      "statement of account",
+      "statement of accounts"
+    ],
+    "emoji": "📃📊",
+    "id": "gl230"
+  },
+  "statement of affairs": {
+    "word": "statement of affairs",
+    "definition": "a statement that lists assets and liabilities on a certain date to help find capital",
+    "variations": [
+      "statement of affairs",
+      "statements of affairs"
+    ],
+    "emoji": "📋📊",
+    "id": "gl231"
+  },
+  "statement of financial position": {
+    "word": "statement of financial position",
+    "definition": "a financial statement that shows the assets, liabilities, and capital of a business at a certain date.",
+    "variations": [
+      "statement of financial position",
+      "statements of financial position",
+      "balance sheet",
+      "balance sheets"
+    ],
+    "emoji": "📊🏢",
+    "id": "gl232"
+  },
+  "stock": {
+    "word": "stock",
+    "definition": "goods kept by a business for sale or use",
+    "variations": [
+      "stock",
+      "stocks"
+    ],
+    "emoji": "📦🛒",
+    "id": "gl233"
+  },
+  "stock turnover": {
+    "word": "stock turnover",
+    "definition": "a measure of how many times inventory is sold and replaced during a period.",
+    "variations": [
+      "stock turnover",
+      "inventory turnover"
+    ],
+    "emoji": "📦🔁",
+    "id": "gl234"
+  },
+  "subsidiary ledger": {
+    "word": "subsidiary ledger",
+    "definition": "a ledger that contains separate accounts for individual customers or suppliers.",
+    "variations": [
+      "subsidiary ledger",
+      "subsidiary ledgers"
+    ],
+    "emoji": "📒👥",
+    "id": "gl235"
+  },
+  "supplier": {
+    "word": "supplier",
+    "definition": "a person or business that provides goods to another business.",
+    "variations": [
+      "supplier",
+      "suppliers"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl236"
+  },
+  "system": {
+    "word": "system",
+    "definition": "an organised way of doing things",
+    "variations": [
+      "system",
+      "systems"
+    ],
+    "emoji": "⚙️🗂️",
+    "id": "gl237"
+  },
+  "tax": {
+    "word": "tax",
+    "definition": "money paid to the government by individuals or businesses.",
+    "variations": [
+      "tax",
+      "taxes"
+    ],
+    "emoji": "🏛️💵",
+    "id": "gl238"
+  },
+  "time period principle": {
+    "word": "time period principle",
+    "definition": "the rule that business activities should be reported over set periods such as months or years",
+    "variations": [
+      "time period principle",
+      "periodicity concept"
+    ],
+    "emoji": "📅⏰",
+    "id": "gl239"
+  },
+  "trade payables": {
+    "word": "trade payables",
+    "definition": "money a business owes to suppliers for goods bought on credit.",
+    "variations": [
+      "trade payable",
+      "trade payables"
+    ],
+    "emoji": "💸🏪",
+    "id": "gl240"
+  },
+  "trade receivables": {
+    "word": "trade receivables",
+    "definition": "money owed to a business by customers who bought goods on credit.",
+    "variations": [
+      "trade receivable",
+      "trade receivables"
+    ],
+    "emoji": "💵👤",
+    "id": "gl241"
+  },
+  "transaction": {
+    "word": "transaction",
+    "definition": "a business activity that is recorded, such as buying, selling, or returning goods.",
+    "variations": [
+      "transaction",
+      "transactions"
+    ],
+    "emoji": "💼🧾",
+    "id": "gl242"
+  },
+  "transparency": {
+    "word": "transparency",
+    "definition": "the quality of being open and clear so others can understand what is happening",
+    "variations": [
+      "transparency"
+    ],
+    "emoji": "🪟📖",
+    "id": "gl243"
+  },
+  "transposition error": {
+    "word": "transposition error",
+    "definition": "a mistake made by reversing the order of digits, such as writing 54 instead of 45.",
+    "variations": [
+      "transposition error",
+      "transposition errors"
+    ],
+    "emoji": "🔄🔢",
+    "id": "gl244"
+  },
+  "trial balance": {
+    "word": "trial balance",
+    "definition": "a list of all ledger balances prepared to check that total debits equal total credits.",
+    "variations": [
+      "trial balance",
+      "trial balances"
+    ],
+    "emoji": "⚖️📋",
+    "id": "gl245"
+  },
+  "utilisation": {
+    "word": "utilisation",
+    "definition": "the way something is used, especially how well assets are used in a business.",
+    "variations": [
+      "utilisation",
+      "asset utilisation"
+    ],
+    "emoji": "⚙️📊",
+    "id": "gl246"
+  },
+  "wages": {
+    "word": "wages",
+    "definition": "money paid to workers for the work they do.",
+    "variations": [
+      "wage",
+      "wages"
+    ],
+    "emoji": "👷💵",
+    "id": "gl247"
+  }
+}
